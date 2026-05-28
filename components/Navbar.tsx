@@ -12,7 +12,7 @@ export default function Navbar() {
             alt="ABF Advocacia"
             width={120}
             height={120}
-            className="rounded-full object-cover"
+            className="rounded-md object-cover"
           />
 
           <h1 className="text-xl font-bold text-white">ABF Advocacia</h1>
